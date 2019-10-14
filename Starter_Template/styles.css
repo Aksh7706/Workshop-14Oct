@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Flamenco&display=swap');
+* {
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    background-color: #F5BD2F;
+    font-family: 'Flamenco', cursive;
+}
+
+header {}
+
+.heading {}
+
+.heading__box {}
+
+.heading__primary {}
+
+.heading__primary .heading__primary--main {}
+
+.heading__primary .heading__primary--content {}
